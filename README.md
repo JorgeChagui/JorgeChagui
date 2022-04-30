@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jorge Chagui</h1>
+<h1 align="center">Hi 👋, I'm Jorge Chagüi</h1>
 <h3 align="center">A passionate full stack JavaScript developer from Colombia</h3>
 
 - 🔭 I’m currently working at [Condor Labs](https://condorlabs.io/)
