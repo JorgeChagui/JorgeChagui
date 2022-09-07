@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jorge Chagüi</h1>
 <h3 align="center">A passionate full stack JavaScript developer from Colombia</h3>
 
-- 🔭 I’m currently working at [Condor Labs](https://condorlabs.io/)
+- 🔭 I’m currently working at [DualBoot Partners](https://dualbootpartners.com/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently using **React Native**
 
-- 💬 Ask me about **JavaScript, NodeJS and Videogames**
+- 💬 Ask me about **JavaScript, NodeJS, ReactJS and Videogames**
 
 - 📫 How to reach me **jorgeischagui@gmail.com**
 
